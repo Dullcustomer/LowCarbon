@@ -1,0 +1,10 @@
+F:\Temp\LowCarbon\bin\x64\Debug\LowCarbon.exe.config
+F:\Temp\LowCarbon\bin\x64\Debug\LowCarbon.exe
+F:\Temp\LowCarbon\bin\x64\Debug\LowCarbon.pdb
+F:\Temp\LowCarbon\obj\x64\Debug\LowCarbon.Form1.resources
+F:\Temp\LowCarbon\obj\x64\Debug\LowCarbon.Properties.Resources.resources
+F:\Temp\LowCarbon\obj\x64\Debug\LowCarbon.csproj.GenerateResource.cache
+F:\Temp\LowCarbon\obj\x64\Debug\LowCarbon.csproj.CoreCompileInputs.cache
+F:\Temp\LowCarbon\obj\x64\Debug\LowCarbon.exe
+F:\Temp\LowCarbon\obj\x64\Debug\LowCarbon.pdb
+F:\Temp\LowCarbon\obj\x64\Debug\LowCarbon.csproj.AssemblyReference.cache
